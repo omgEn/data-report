@@ -8,7 +8,7 @@ import Echarts from 'echarts'
 Vue.config.productionTip = false
 Vue.prototype.$echarts = Echarts
 Vue.prototype.$nextTick = Vue.nextTick
-console.log(Echarts)
+// console.log(Echarts)
 
 new Vue({
   router,
